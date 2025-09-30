@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there 👋
 
-My nme is Justin - for a bit of information about me:
+My name is Justin - for a bit of information about me:
 
 1. I fly drones in my spare time.
 1. I studied in Ireland.
